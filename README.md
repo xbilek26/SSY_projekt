@@ -10,6 +10,7 @@ Cílem je vytvořit ovladač/knihovnu pro obvod ATSHA204a, realizující násled
 * RND - funkce pro čtení
 
 - git remote add origin https://github.com/xbilek26/SSY_projekt.git
+- git clone
 - git add .
 - git commit -m "Message"
 - git push origin
