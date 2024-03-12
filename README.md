@@ -1,6 +1,6 @@
 # MPC-SSY projekt
 
-František Bílek, Filip Seč
+František Bílek (230534), Filip Seč (230656)
 
 Cílem je vytvořit ovladač/knihovnu pro obvod ATSHA204a, realizující následující funkce:
 * úložiště klíčů pro AES128 - funkce pro uložení a čtení klíče
