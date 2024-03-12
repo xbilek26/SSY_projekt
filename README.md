@@ -1,1 +1,1 @@
-# SSY_projekt
+# MPC-SSY projekt
