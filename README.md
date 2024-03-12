@@ -9,8 +9,8 @@ Cílem je vytvořit ovladač/knihovnu pro obvod ATSHA204a, realizující násled
 * HASH - využití pro výpočet SHA
 * RND - funkce pro čtení
 
-git remote add origin https://github.com/xbilek26/SSY_projekt.git
-git add .
-git commit -m "Message"
-git push origin
-git pull origin
+- git remote add origin https://github.com/xbilek26/SSY_projekt.git
+- git add .
+- git commit -m "Message"
+- git push origin
+- git pull origin
