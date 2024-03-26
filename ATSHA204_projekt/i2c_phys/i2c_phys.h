@@ -12,10 +12,10 @@
 
 // DEFINES
 
-#define I2C_CLOCK			(400000.0)
-#define I2C_BYTE_TIMEOUT	((uint8_t) 200)
-#define I2C_STOP_TIMEOUT    ((uint8_t) 250)
-#define I2C_START_TIMEOUT	((uint8_t) 250)
+#define I2C_CLOCK  (400000.0)
+#define I2C_BYTE_TIMEOUT  ((uint8_t) 200)
+#define I2C_STOP_TIMEOUT  ((uint8_t) 250)
+#define I2C_START_TIMEOUT  ((uint8_t) 250)
 
 // PROTOTYPES
 
