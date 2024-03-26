@@ -19,8 +19,12 @@
 
 // PROTOTYPES
 
-void i2c_enable(void);void i2c_disable(void);uint8_t i2c_send_start(void);uint8_t i2c_send_stop(void);uint8_t i2c_send_bytes(uint8_t count, uint8_t *data)
-uint8_t i2c_receive_byte(uint8_t *data)
-uint8_t i2c_receive_bytes(uint8_t count, uint8_t *data)
+void i2c_enable(void);
+void i2c_disable(void);
+uint8_t i2c_send_start(void);
+uint8_t i2c_send_stop(void);
+uint8_t i2c_send_bytes(uint8_t count, uint8_t *data);
+uint8_t i2c_receive_byte(uint8_t *data);
+uint8_t i2c_receive_bytes(uint8_t count, uint8_t *data);
 
 #endif /* PHYS_I2C_H_ */
