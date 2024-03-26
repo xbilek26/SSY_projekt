@@ -30,13 +30,6 @@ enum i2c_read_write_flag {
 	I2C_READ  = (uint8_t) 0x01   // read command flag
 };
 
-enum i2c_word_address {
-	SHA204_I2C_PACKET_FUNCTION_RESET,  //!< Reset device.
-	SHA204_I2C_PACKET_FUNCTION_SLEEP,  //!< Put device into Sleep mode.
-	SHA204_I2C_PACKET_FUNCTION_IDLE,   //!< Put device into Idle mode.
-	SHA204_I2C_PACKET_FUNCTION_NORMAL  //!< Write / evaluate data that follow this word address byte.
-};
-
 enum i2c_read_write_flag {
 	I2C_WRITE = (uint8_t) 0x00,  //!< write command flag
 	I2C_READ  = (uint8_t) 0x01   //!< read command flag
