@@ -11,6 +11,7 @@
 
 #include "i2c_phys.h"
 #include <stdio.h>
+#include <avr/io.h>
 #include <util/twi.h>
 
 // FUCTIONS
