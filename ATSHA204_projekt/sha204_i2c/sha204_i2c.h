@@ -14,7 +14,7 @@
 //INCLUDES
 
 #include <stdio.h>
-#include "phys_i2c/phys_i2c.h"
+#include "i2c_phys/i2c_phys.h"
 #include "sha204/sha204.h"
 
 // PROTOTYPES
