@@ -10,7 +10,6 @@
 // INCLUDES
 
 #include "i2c_phys.h"
-#include "i2clib.h"
 #include <stdio.h>
 #include <util/twi.h>
 
